@@ -1,0 +1,494 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5706,
+      "max": [
+        2.9574000835418701,
+        5.1166300773620605,
+        2.9846000671386719
+      ],
+      "min": [
+        -3.009160041809082,
+        -1.0933500528335571,
+        -4.9485797882080078
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 68472,
+      "componentType": 5126,
+      "count": 5706,
+      "max": [
+        0.99962633848190308,
+        0.99987024068832397,
+        0.99921345710754395
+      ],
+      "min": [
+        -0.99995702505111694,
+        -0.99912071228027344,
+        -0.99959194660186768
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 5706,
+      "max": [
+        1,
+        0.99966537952423096,
+        0.99980676174163818,
+        1
+      ],
+      "min": [
+        -0.99957448244094849,
+        -0.99968183040618896,
+        -0.99960720539093018,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5706,
+      "max": [
+        0.99344998598098755,
+        0.99598002433776855
+      ],
+      "min": [
+        0.0044999998062849045,
+        0.003060000017285347
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 25650,
+      "max": [
+        5705
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 136944,
+      "componentType": 5126,
+      "count": 318,
+      "max": [
+        2.8881399631500244,
+        3.5140399932861328,
+        1.3671400547027588
+      ],
+      "min": [
+        -0.94990998506546021,
+        -0.97800999879837036,
+        -2.153980016708374
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 140760,
+      "componentType": 5126,
+      "count": 318,
+      "max": [
+        0.99985009431838989,
+        0.99986058473587036,
+        0.99886369705200195
+      ],
+      "min": [
+        -0.99954462051391602,
+        -0.73407268524169922,
+        -0.99882715940475464
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 91296,
+      "componentType": 5126,
+      "count": 318,
+      "max": [
+        0.96594256162643433,
+        0.99983316659927368,
+        0.9886622428894043,
+        1
+      ],
+      "min": [
+        -0.9336392879486084,
+        -0.76306641101837158,
+        -0.99981003999710083,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 45648,
+      "componentType": 5126,
+      "count": 318,
+      "max": [
+        0.99002999067306519,
+        0.98317998647689819
+      ],
+      "min": [
+        0.0092799998819828033,
+        0.020899999886751175
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 102600,
+      "componentType": 5125,
+      "count": 888,
+      "max": [
+        317
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "luyssport (https://sketchfab.com/luyssport)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/models/e291451cca004a888166b2d8ad514f9c",
+      "title": "Mano"
+    },
+    "generator": "Sketchfab-3.29.3",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 106152,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48192,
+      "byteOffset": 106152,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144576,
+      "byteOffset": 154344,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 96384,
+      "byteOffset": 298920,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 395304,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/plantas_baseColor.png"
+    },
+    {
+      "uri": "textures/plantas_normal.png"
+    },
+    {
+      "uri": "textures/mano_baseColor.png"
+    },
+    {
+      "uri": "textures/mano_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "plantas",
+      "normalTexture": {
+        "index": 1,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "mano",
+      "normalTexture": {
+        "index": 3,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "mano",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "plantas",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -0,
+        1,
+        0,
+        0,
+        -1,
+        -0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "mano"
+    },
+    {
+      "mesh": 0,
+      "name": "mano"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -0.23531000000000002,
+        0.51220999999999994,
+        -0.82600000000000007,
+        0,
+        -0.89720000000000011,
+        -0.44126000000000004,
+        -0.018030000000000001,
+        0,
+        -0.37371000000000004,
+        0.73684000000000016,
+        0.56337999999999999,
+        0,
+        -3.0894900000000001,
+        6.1826999999999996,
+        0.82377000000000011,
+        1
+      ],
+      "name": "Sun"
+    },
+    {
+      "name": "Sun"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.23697000000000001,
+        -0.51549,
+        0.82347999999999999,
+        0,
+        -0.89720000000000011,
+        -0.44126000000000004,
+        -0.018030000000000001,
+        0,
+        0.37266000000000005,
+        -0.73455000000000004,
+        -0.56706000000000001,
+        0,
+        3.6335100000000002,
+        -7.0722000000000005,
+        -9.3287099999999992,
+        1
+      ],
+      "name": "Hemi"
+    },
+    {
+      "name": "Hemi"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -0,
+        1,
+        0,
+        0,
+        -1,
+        -0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "plantas"
+    },
+    {
+      "mesh": 1,
+      "name": "plantas"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 33071,
+      "wrapT": 33071
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 1,
+      "source": 2
+    },
+    {
+      "sampler": 1,
+      "source": 3
+    }
+  ]
+}
+
