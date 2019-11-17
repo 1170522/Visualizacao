@@ -2,9 +2,7 @@
     "name": "visualizacao",
     "version": "0.3.0",
     "description": "A sample Node.js app using Express 4",
-    "engines": {
-      "node": "12.x"
-    },
+    
     "main": "example.html",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +17,7 @@
       "url": "https://github.com/1170522/Visualizacao"
     },
     "keywords": [
-      "node",
+      
       "heroku",
       "express"
     ],
